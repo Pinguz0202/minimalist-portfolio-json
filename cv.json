@@ -1,68 +1,68 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Alvaro Rodriguez!",
+    "label": "Higher Degree Student DAM",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "email": "alvaro.rodriguez@a.vedrunasevillasj.es",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "I completed an intermediate degree in Microcomputer Systems and Networks and am currently pursuing a Higher Degree in Multiplatform Application Development (DAM). I am highly adaptable, patient, and maintain a positive attitude, enabling me to thrive in diverse environments. I excel in teamwork, fostering collaboration to achieve goals and maintain a productive work atmosphere.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41013",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Alvaro Rodriguez Gamero",
+        "url": "https://linkedin.com/in/alvaro-rodriguez-gamero-65395a255"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "pinguz0202",
+        "url": "https://x.com/pinguz0202"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Pinguz0202",
+        "url": "https://github.com/Pinguz0202"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Gunstar Studio",
+      "position": "Hardware Support Technician",
+      "url": "",
+      "startDate": "2023-03-21",
+      "endDate": "2023-07-21",
+      "summary": "Provided effective support and solutions for hardware issues within the company.",
       "highlights": [
-        "Started the company"
+        "Resolved technical issues efficiently, reducing downtime."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Started the company"
+        ""
       ]
     }
   ],
@@ -89,116 +89,116 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "Food Bank Seville",
     "position": "Volunteer",
     "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "startDate": "2021-10-05",
+    "endDate": "2023-01-01",
+    "summary": "Assisted in food collection and organization activities in Seville.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Recognized as 'Volunteer of the Month' for dedication and teamwork."
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "institution": "Vedruna Professional School",
+    "url": "https://vedrunasevilla.org",
+    "area": "Senior Technician in Multiplatform Application Development",
+    "studyType": "Higher Education",
+    "startDate": "2023-10-21",
+    "endDate": "2025-06-21",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
   }],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
+      "name": "Java",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Programming", "Backend", "Mobile", "Android"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": "Unity",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Game Development", "C#", "", ""
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "Android",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Mobile Development", "Java", "Kotlin", ""
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Database", "SQL", "Backend", ""
+      ]
+    },
+    {
+      "name": "WPF",
+      "level": "Intermediate",
+      "keywords": [
+        "Desktop Development", "UI/UX Design", "C#", ""
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Version control", "Colaboración", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "Odoo",
+      "level": "Intermediate",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "ERP", "Business Applications", "Python", "SSR", "Open Source"
       ]
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [{
@@ -228,46 +228,46 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Application to Create Role-Playing Characters",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Android application to design role-playing game characters with customizable options for race, class, elemental affinities and final legacy.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Development in Android Studio.",
+        "Use of dynamic structures for user decisions."
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
+      "name": "Space Invaders",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Development of an access and services system for a Space Invaders style game.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Secure authentication implementation.",
+        "Efficient management of gaming services.",
+        "Backend integration for a retro gaming style."
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "",
+        ""
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
+      "name": "",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "",
+        ""
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "",
+      "github": ""
     },
     {
       "name": "Pruebas Técnicas",
@@ -281,13 +281,13 @@
       "github": "https://github.com/midudev/pruebas-tecnicas"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "",
+      "description": "",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "",
+        ""
       ],
-      "url": "https://miduconf.com"
+      "url": ""
     }
   ]
 }
